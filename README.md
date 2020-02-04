@@ -6,4 +6,4 @@ Since the network is really big and has many links, I had to set the width and h
 
 Nodes can be dragged through the screen, and when hovering over it shows us to which nodes the selected node is directly linked with by fading out all others, and showing the id's of these nodes. 
 
-Color is used to control visualize gender.
+Color is used to visualize gender.
